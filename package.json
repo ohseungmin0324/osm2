@@ -1,0 +1,11 @@
+{
+  "name": "smartstore-crawler-test",
+  "version": "1.0.0",
+  "main": "index-test.js",
+  "scripts": {
+    "start": "node index-test.js"
+  },
+  "dependencies": {
+    "google-spreadsheet": "^4.0.0"
+  }
+}
